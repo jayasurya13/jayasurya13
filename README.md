@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for a new role **Software Engineer**
 
-- 👨‍💻 All of my projects are available at [https://taupe-dieffenbachia-4e6a2a.netlify.app/](https://taupe-dieffenbachia-4e6a2a.netlify.app/)
+- 👨‍💻 All of my projects are available at
 
 - 📫 How to reach me **jayasurya.cd1@gmail.com**
 
